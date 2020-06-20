@@ -5,5 +5,7 @@ public class Main {
         System.out.println("GIT");
         System.out.println("Commit 1");
         System.out.println("Commit 2");
+
+        System.out.println("Zmiana1 - new branch");
     }
 }
